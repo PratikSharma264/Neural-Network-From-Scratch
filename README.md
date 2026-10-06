@@ -2,7 +2,7 @@
 
 A hands-on project exploring how a small neural network learns to classify a nonlinear dataset. The model is implemented with NumPy: forward propagation, backpropagation, and gradient descent are written out directly rather than delegated to a deep-learning framework.
 
-Built and explored with [NextWork](https://www.nextwork.ai/).
+Built and explored with NextWork.
 
 ## What This Project Covers
 
